@@ -1,0 +1,29 @@
+.lightSquare {
+ 
+  -fx-background-color:rgb(255, 255, 255);
+  -fx-background-radius: 0;  
+}
+
+#boardBase{
+}
+
+.darkSquare {
+	
+	-fx-background-color:rgb(181, 132, 96);
+	-fx-background-radius: 0;  
+}
+
+.lightSquare.selectableSquares{
+	-fx-background-color:rgb(26, 54, 102);
+}
+
+.darkSquare.selectableSquares {
+ 
+  -fx-background-color:rgb(100, 69, 47);
+  -fx-background-radius: 0;  
+}
+
+.lightSquare.selectableSquares:hover, .darkSquare.selectableSquares:hover{
+	-fx-background-color:rgb(255, 255, 128);
+}
+

@@ -1,0 +1,5 @@
+Board{
+Time/Blue/0,0@Hourglass/Blue/0,1@Plus/Blue/0,2@Sun/Blue/0,3@Plus/Blue/0,4@Hourglass/Blue/0,5@Time/Blue/0,6@Point/Blue/1,0@Point/Blue/1,1@Point/Blue/1,2@Point/Blue/2,4@Point/Blue/2,5@Point/Blue/1,6@Point/Yellow/3,0@Point/Yellow/4,1@Point/Yellow/4,2@Point/Yellow/3,3@Point/Yellow/4,4@Point/Yellow/4,5@Point/Yellow/4,6@Time/Yellow/5,0@Hourglass/Yellow/3,2@Plus/Yellow/5,2@Sun/Yellow/5,3@Plus/Yellow/5,4@Hourglass/Yellow/5,5@Time/Yellow/5,6,
+jai pro,Yellow,true,
+sofea noob,Blue,false,
+6

@@ -1,0 +1,5 @@
+Board{
+Plus/Blue/0,0@Hourglass/Blue/0,1@Time/Blue/0,2@Sun/Blue/0,3@Time/Blue/0,4@Hourglass/Blue/0,5@Plus/Blue/0,6@Point/Blue/1,0@Point/Blue/1,1@Point/Blue/1,2@Point/Blue/1,3@Point/Blue/1,4@Point/Blue/1,5@Point/Blue/1,6@Point/Yellow/4,0@Point/Yellow/4,1@Point/Yellow/4,2@Point/Yellow/4,3@Point/Yellow/4,4@Point/Yellow/4,5@Point/Yellow/4,6@Plus/Yellow/5,0@Hourglass/Yellow/5,1@Time/Yellow/5,2@Sun/Yellow/5,3@Time/Yellow/5,4@Hourglass/Yellow/5,5@Plus/Yellow/5,6,
+Player 1,Yellow,true,
+Player 2,Blue,false,
+0

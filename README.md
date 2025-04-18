@@ -21,5 +21,5 @@ Here are some screenshots of TalabiaChess:
 ![Move](Screenshots/move.png)  
 *Piece's move on the board*
 
-![Pause](Screenshots/move.png)  
+![Pause](Screenshots/pause.png)  
 *Pause Menu during the game*

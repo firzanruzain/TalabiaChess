@@ -7,3 +7,19 @@ An Object-Oriented Application Design project- a "variation" of chess which is c
 - User-friendly interface using JavaFX
 - Game status updates
 - Clean and responsive design
+
+## Screenshots
+
+Here are some screenshots of TalabiaChess:
+
+![Main Menu](Screenshots/menu.png)  
+*Main menu of the game*
+
+![Game In Progress](Screenshots/game1.png)  
+*Game in progress with pieces on the board*
+
+![Move](Screenshots/move.png)  
+*Piece's move on the board*
+
+![Pause](Screenshots/move.png)  
+*Pause Menu during the game*
